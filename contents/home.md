@@ -10,11 +10,11 @@ fundamental software engineering.
 
 #### Education  
 **Yuan Ze University**, Taiwan  
-Bachelor of Science in Computer Science (2023 – Present)  
+Bachelor of Science in Computer Science (2024 – Present)  
 • Undergraduate Student (Sophomore)
 
 **National Chengchi University Affiliated Senior High School**, Taiwan  
-High School Diploma 校長獎畢業
+High School Diploma 校長獎畢業(2021-2024)
 
 #### Research Interests  
 - FPGA and Hardware Acceleration  
