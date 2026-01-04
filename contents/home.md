@@ -5,7 +5,7 @@ Yuan Ze University, Taiwan. My studies focus on data structures, algorithms, and
 fundamental software engineering.
 
 #### Email  
-<code>annam512ac@gmail.com></code>
+<code>annam512ac@gmail.com</code>
 <code>s1133346@mail.yzu.edu.tw</code>
 
 #### Education  
