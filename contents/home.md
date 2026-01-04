@@ -1,20 +1,22 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![GitHub](https://img.shields.io/badge/GitHub-annachao1108-blue?logo=github)](https://github.com/annachao1108)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently a sophomore undergraduate student at the Department of Computer Science,
+Yuan Ze University, Taiwan. My studies focus on data structures, algorithms, and
+fundamental software engineering.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>annam512ac@gmail.com>>codee  
+<code>s1133346@mail.yzu.edu.tw</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Yuan Ze University**, Taiwan  
+Bachelor of Science in Computer Science (2023 – Present)  
+• Undergraduate Student (Sophomore)
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**National Chengchi University Affiliated Senior High School**, Taiwan  
+High School Diploma 校長獎畢業
 
 #### Research Interests  
-XX, XX, XX, XX.
+- FPGA and Hardware Acceleration  
+- Abacus as a Tool for Algorithmic Thinking  
+- Reading and Independent Learning
