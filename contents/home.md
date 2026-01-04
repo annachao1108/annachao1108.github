@@ -13,7 +13,7 @@ fundamental software engineering.
 Bachelor of Science in Computer Science (2024 – Present)  
 • Undergraduate Student (Sophomore)
 
-**National Chengchi University Affiliated Senior High School**, Taiwan  
+**The Affiliated High School of National Chengchi University**, Taiwan  
 High School Diploma 校長獎畢業(2021-2024)
 
 #### Research Interests  
